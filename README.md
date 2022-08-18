@@ -1,10 +1,9 @@
-# [ARCHIVED] ConfigurationTransform
+# ConfigurationTransform
 
 [![Build Status](https://dev.azure.com/golavr/ConfigurationTransform/_apis/build/status/golavr.ConfigurationTransform?branchName=master)](https://dev.azure.com/golavr/ConfigurationTransform/_build/latest?definitionId=4&branchName=master)
 [![GitHub release](https://img.shields.io/github/release/golavr/configurationtransform.svg?label=GitHub%20Release&logo=github&style=flat)](https://github.com/golavr/ConfigurationTransform/releases)
 
 #### IMPORTANT! This work has been superseded by https://docs.microsoft.com/en-us/dotnet/core/extensions/configuration
-As part of the archival process, I'm closing all open issues and pull requests.
 
 ---
 
